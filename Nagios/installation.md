@@ -1,6 +1,5 @@
 *****************CODE USED FOR INSTALLATION*******************
-
--sudo su
+- sudo su
 yum install httpd php
 yum install gcc glibc glibc-common
 yum install gd gd-devel
