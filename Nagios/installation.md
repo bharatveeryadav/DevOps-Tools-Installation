@@ -5,6 +5,7 @@
 - yum install gd gd-devel
 
  adduser -m nagios
+ 
  passwd nagios
 
 groupadd nagioscmd
