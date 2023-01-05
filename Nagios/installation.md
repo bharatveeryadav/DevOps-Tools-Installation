@@ -4,8 +4,8 @@
 - yum install gcc glibc glibc-common
 - yum install gd gd-devel
 
-adduser -m nagios
-passwd nagios
+ adduser -m nagios
+ passwd nagios
 
 groupadd nagioscmd
 usermod -a -G nagioscmd nagios
