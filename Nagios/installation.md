@@ -12,8 +12,8 @@ groupadd nagioscmd
 usermod -a -G nagioscmd nagios
 usermod -a -G nagioscmd apache
 
-mkdir ~/downloads
-cd ~/downloads
+- mkdir ~/downloads
+- cd ~/downloads
 
 wget http://prdownloads.sourceforge.net/so...
 wget http://nagios-plugins.org/download/na...
