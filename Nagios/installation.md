@@ -1,8 +1,8 @@
 *****************CODE USED FOR INSTALLATION*******************
 - sudo su
-yum install httpd php
-yum install gcc glibc glibc-common
-yum install gd gd-devel
+- yum install httpd php
+- yum install gcc glibc glibc-common
+- yum install gd gd-devel
 
 adduser -m nagios
 passwd nagios
