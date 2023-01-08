@@ -35,3 +35,6 @@ python3 -m pip install --upgrade --user ansible
 
 
 sudo apt install ansible
+
+
+ansible --version
