@@ -30,3 +30,8 @@ Upgrading Ansible
 To upgrade an existing Ansible installation in this Python environment to the latest released version, simply add --upgrade to the command above:
 
 python3 -m pip install --upgrade --user ansible
+
+
+
+
+sudo apt install ansible
