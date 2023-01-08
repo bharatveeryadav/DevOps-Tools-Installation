@@ -53,3 +53,5 @@ sudo dnf install  --enablerepo epel-playground  ansible
 yum install epel-release
 
 sudo yum install ansible
+
+brew install ansible
