@@ -17,3 +17,16 @@ If you see an error like No module named pip, you’ll need to install pip under
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py --user
+
+
+Installing Ansible
+Use pip in your selected Python environment to install the Ansible package of your choice for the current user:
+
+python3 -m pip install --user ansible
+Alternately, you can install a specific version of ansible-core in this Python environment:
+
+python3 -m pip install --user ansible-core==2.12.3
+Upgrading Ansible
+To upgrade an existing Ansible installation in this Python environment to the latest released version, simply add --upgrade to the command above:
+
+python3 -m pip install --upgrade --user ansible
