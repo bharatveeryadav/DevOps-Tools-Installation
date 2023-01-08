@@ -55,3 +55,11 @@ yum install epel-release
 sudo yum install ansible
 
 brew install ansible
+$ ansible --version
+ansible 2.7.5
+  config file = None
+  configured module search path = ['/Users/shanky/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/local/Cellar/ansible/2.7.5/libexec/lib/python3.7/site-packages/ansible
+  executable location = /usr/local/bin/ansible
+  python version = 3.7.2 (default, April 13 2021, 07:35:52) [Clang 10.0.0 (clang-1000.11.45.5)]
+
