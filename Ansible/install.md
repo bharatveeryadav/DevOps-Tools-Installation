@@ -38,3 +38,7 @@ sudo apt install ansible
 
 
 ansible --version
+
+
+
+sudo dnf install python3 python3-pip -y
