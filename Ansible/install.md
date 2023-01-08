@@ -63,3 +63,5 @@ ansible 2.7.5
   executable location = /usr/local/bin/ansible
   python version = 3.7.2 (default, April 13 2021, 07:35:52) [Clang 10.0.0 (clang-1000.11.45.5)]
 
+
+ansible localhost  -m ping
