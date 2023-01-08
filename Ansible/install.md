@@ -51,3 +51,5 @@ sudo dnf install  --enablerepo epel-playground  ansible
 
 # Installing the epel-release package using the yum command yum install epel-release
 yum install epel-release
+
+sudo yum install ansible
