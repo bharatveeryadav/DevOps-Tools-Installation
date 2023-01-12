@@ -41,3 +41,9 @@ irqbypass              16384  1 kvm
 
 <code><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt remove docker-desktop
 </code>
+
+
+<code><span class="gp">$</span><span class="w"> </span><span class="nb">rm</span> <span class="nt">-r</span> <span class="nv">$HOME</span>/.docker/desktop
+<span class="gp">$</span><span class="w"> </span><span class="nb">sudo rm</span> /usr/local/bin/com.docker.cli
+<span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt purge docker-desktop
+</code>
