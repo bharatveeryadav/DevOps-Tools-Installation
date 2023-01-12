@@ -36,3 +36,8 @@ irqbypass              16384  1 kvm
 
 <code><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt <span class="nb">install </span>gnome-terminal
 </code>
+
+
+
+<code><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt remove docker-desktop
+</code>
