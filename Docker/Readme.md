@@ -33,3 +33,6 @@ irqbypass              16384  1 kvm
 
 
 <h1 id="title">Install on Ubuntu</h1>
+
+<code><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt <span class="nb">install </span>gnome-terminal
+</code>
