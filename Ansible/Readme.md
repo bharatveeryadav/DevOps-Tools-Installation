@@ -18,3 +18,5 @@ sudo nano /etc/ansible/hosts
 ansible-inventory --list -y
 
 ansible all -m ping -u root
+
+ansible all -a "df -h" -u root
