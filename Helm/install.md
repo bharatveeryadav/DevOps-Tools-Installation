@@ -7,3 +7,4 @@ $ ./get_helm.sh
 
 https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash if
 fgh
+https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash if
